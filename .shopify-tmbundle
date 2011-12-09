@@ -10,9 +10,9 @@ use="default"
 
 ; my development shop
 [default]
-api_key="538dba37c6211d33a5017718734fcc49"
-password="bf4de4234cc787aca2a8e286ae3a2a80"
-store="boilerplate.myshopify.com"
+api_key="c7682328be9807a4f30130a6803fce18"
+password="66eaa29ec1a9281cc1dc2f941150dc20"
+store="altenwerth-kihn3859.myshopify.com"
 
 ; and the live shop
 ;[live]
